@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
-<h3 align="center">A Backend developer (Java | Spring Boot) from Brasil</h3>
+<h3 align="center">A Backend engineer (Java | Spring Boot)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpablooo&label=Profile%20views&color=0e75b6&style=flat" alt="juanpablooo" /> </p>
 
 - 🔭 I’m currently working on [banco-btg](https://www.btgpactual.com/)
 
 - 🌱 I’m currently working using **Spring-Boot**
-
-- 👯 I’m looking to collaborate on [Clean House](https://github.com/JuanPablooo/Clean-House)
 
 - 👨‍💻 All of my projects are available here on my profile [https://github.com/JuanPablooo](https://github.com/JuanPablooo)
 
